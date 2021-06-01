@@ -1,0 +1,6 @@
+C:\Users\Psy\Documents\Github\discord3\discord3\discrod3Lib\bin\Debug\discrod3Lib.dll
+C:\Users\Psy\Documents\Github\discord3\discord3\discrod3Lib\bin\Debug\discrod3Lib.pdb
+C:\Users\Psy\Documents\Github\discord3\discord3\discrod3Lib\obj\Debug\discord3lib.csprojAssemblyReference.cache
+C:\Users\Psy\Documents\Github\discord3\discord3\discrod3Lib\obj\Debug\discord3lib.csproj.CoreCompileInputs.cache
+C:\Users\Psy\Documents\Github\discord3\discord3\discrod3Lib\obj\Debug\discrod3Lib.dll
+C:\Users\Psy\Documents\Github\discord3\discord3\discrod3Lib\obj\Debug\discrod3Lib.pdb

@@ -1,0 +1,10 @@
+C:\Users\Psy\Documents\Github\discord3\discord3\discord3Server\bin\Debug\discord3Server.exe.config
+C:\Users\Psy\Documents\Github\discord3\discord3\discord3Server\bin\Debug\discord3Server.exe
+C:\Users\Psy\Documents\Github\discord3\discord3\discord3Server\bin\Debug\discord3Server.pdb
+C:\Users\Psy\Documents\Github\discord3\discord3\discord3Server\bin\Debug\discrod3Lib.dll
+C:\Users\Psy\Documents\Github\discord3\discord3\discord3Server\bin\Debug\discrod3Lib.pdb
+C:\Users\Psy\Documents\Github\discord3\discord3\discord3Server\obj\Debug\discord3Server.csprojAssemblyReference.cache
+C:\Users\Psy\Documents\Github\discord3\discord3\discord3Server\obj\Debug\discord3Server.csproj.CoreCompileInputs.cache
+C:\Users\Psy\Documents\Github\discord3\discord3\discord3Server\obj\Debug\discord3Server.csproj.CopyComplete
+C:\Users\Psy\Documents\Github\discord3\discord3\discord3Server\obj\Debug\discord3Server.exe
+C:\Users\Psy\Documents\Github\discord3\discord3\discord3Server\obj\Debug\discord3Server.pdb
